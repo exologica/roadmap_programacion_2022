@@ -117,8 +117,10 @@ En este punto como idea pueden empezar a diseñar su propio portfolio en github 
 ## Final 🥺
 En este punto les dejo los 2 roadmaps mas completos de toda internet, realmente valen oro. Vayan haciendo click en cada una de las cajitas y viendo el contenido de cada tema en profundidad. Los conceptos básicos o esotéricos de cómo funciona internet están muy bien explicados y seguramente responda muchas dudas.
 **Frontend**
+
 [https://roadmap.sh/frontend](https://roadmap.sh/frontend)
 **Backend**
+
 [https://roadmap.sh/backend](https://roadmap.sh/backend)
 
   
