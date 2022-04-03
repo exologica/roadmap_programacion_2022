@@ -9,6 +9,11 @@ Tanto Javascript como Python son 2 de los lenguajes mas polivalentes, es decir, 
 #### Ejemplo:
 Podemos hacer Instagram, utilizando React como framework para el frontend (lo que vemos) y utilizar NodeJS (framework javascript) para las acciones de backend (registrar usuario, subir imágenes, enviar mensajes, mostrarlos, guardar todo en una base de datos, etc).
 
+#### Que es un programador, cuanto se gana, que aprender#### 
+[https://www.youtube.com/watch?v=rl-Bdsmu0q0](https://www.youtube.com/watch?v=rl-Bdsmu0q0)
+
+[https://www.youtube.com/watch?v=urtrRYC3vI4](https://www.youtube.com/watch?v=urtrRYC3vI4)
+
 ![](https://profile.es/wp-content/media/Post-infografia-backend-frontend.png)
 
 # Ingles 🗺️
